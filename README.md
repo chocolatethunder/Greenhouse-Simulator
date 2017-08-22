@@ -6,6 +6,7 @@
 - Test driven development (Waterfall Method)
 - built using Eclipse IDE
 - uses MVC Design model
+- Use UML semantics to help plan, and design the software
 
 **Overview**
 
